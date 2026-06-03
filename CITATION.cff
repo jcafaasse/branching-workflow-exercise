@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: branching-workflow-exercise
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Jonathan
+    family-names: Faasse
+    email: j.c.a.faasse@tudelft.nl
+    affiliation: TU Delft
+repository-code: 'https://github.com/jcafaasse/branching-workflow-exercise/'
+abstract: >-
+  Demo repository for a collaborative research software
+  development class
+license: CC0-1.0
