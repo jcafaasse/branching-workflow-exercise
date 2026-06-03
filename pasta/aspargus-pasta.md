@@ -6,9 +6,7 @@
 - Penne
 - Aspargus
 - tomato
-- onions
-- 
-
+- onions 
 
 ## Instructions
 
